@@ -1,0 +1,21 @@
+Command Line
+
+tab_tracker
+root folder: cd GIT_workspace/tab_tracker
+
+to run the client:
+ - cd client
+ - npm run dev
+ 
+ to run the server:
+  - cd server 
+  - npm start
+ 
+ 
+ 
+ different http requests:
+ get
+ post
+ put
+ patch
+ delete
